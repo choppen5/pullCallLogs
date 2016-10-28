@@ -1,9 +1,9 @@
 # pullCallLogs
 
 #install 
-git clone https://github.com/choppen5/pullCallLogs.git
-cd pullCallLogs
-npm install 
+- git clone https://github.com/choppen5/pullCallLogs.git
+- cd pullCallLogs
+- npm install
 
 # configure
 
