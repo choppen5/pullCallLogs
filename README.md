@@ -1,4 +1,6 @@
 # pullCallLogs
+#pre requisites
+Node.js installed: https://nodejs.org/en/download/
 
 #install 
 - git clone https://github.com/choppen5/pullCallLogs.git
